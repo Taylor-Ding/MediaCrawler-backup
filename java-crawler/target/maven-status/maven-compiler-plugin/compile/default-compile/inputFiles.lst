@@ -1,0 +1,17 @@
+/app/java-crawler/src/main/java/com/example/mediacrawler/repository/XhsCreatorRepository.java
+/app/java-crawler/src/main/java/com/example/mediacrawler/MediaCrawlerApplication.java
+/app/java-crawler/src/main/java/com/example/mediacrawler/repository/XhsNoteRepository.java
+/app/java-crawler/src/main/java/com/example/mediacrawler/service/impl/XhsLoginServiceImpl.java
+/app/java-crawler/src/main/java/com/example/mediacrawler/factory/CrawlerFactory.java
+/app/java-crawler/src/main/java/com/example/mediacrawler/CrawlerCommandLineRunner.java
+/app/java-crawler/src/main/java/com/example/mediacrawler/service/StoreService.java
+/app/java-crawler/src/main/java/com/example/mediacrawler/entity/XhsNote.java
+/app/java-crawler/src/main/java/com/example/mediacrawler/service/LoginService.java
+/app/java-crawler/src/main/java/com/example/mediacrawler/service/impl/XhsCrawlerServiceImpl.java
+/app/java-crawler/src/main/java/com/example/mediacrawler/entity/XhsCreator.java
+/app/java-crawler/src/main/java/com/example/mediacrawler/service/impl/XhsStoreServiceImpl.java
+/app/java-crawler/src/main/java/com/example/mediacrawler/service/Crawler.java
+/app/java-crawler/src/main/java/com/example/mediacrawler/config/PlaywrightConfig.java
+/app/java-crawler/src/main/java/com/example/mediacrawler/entity/XhsBaseEntity.java
+/app/java-crawler/src/main/java/com/example/mediacrawler/entity/XhsNoteComment.java
+/app/java-crawler/src/main/java/com/example/mediacrawler/repository/XhsNoteCommentRepository.java
